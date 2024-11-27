@@ -1,0 +1,11 @@
+# Ignore build artifacts
+target/
+*.lock
+
+# Ignore Tauri dev artifacts
+dist/
+node_modules/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
