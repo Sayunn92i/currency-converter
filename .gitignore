@@ -9,3 +9,8 @@ node_modules/
 # Ignore system files
 .DS_Store
 Thumbs.db
+.env
+
+# IDE/editor files
+.vscode/
+.idea/
